@@ -1,5 +1,1 @@
-
-This is git repo from repository one, second changes
-
-This is my file from repository two
-
+This is class branch
